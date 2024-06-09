@@ -33,7 +33,7 @@
 1. 이 레포지토리를 클론합니다:
    ```bash
    git clone https://github.com/zizonyoungjun/FE_for_HUFS
-   cd FE_for_HUFS```
+   cd FE_for_HUFS
 2. 각 교안 파일을 확인하여 자바스크립트와 리액트의 주요 개념을 학습합니다.
 
 3. 실습 문제를 통해 배운 내용을 복습하고 응용합니다.
